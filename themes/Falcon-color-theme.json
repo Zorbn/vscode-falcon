@@ -43,10 +43,10 @@
 		"quickInput.background": "#151521",
 		"editorSuggestWidget.background": "#151521",
 		"notifications.background": "#151521",
+		"editorWidget.background": "#151521",
 
 		"input.background": "#212127",
 		"dropdown.background": "#212127",
-		"editorWidget.background": "#212127",
 
 		"terminal.foreground": "#B4B4B9",
 		"terminal.background": "#020221",
