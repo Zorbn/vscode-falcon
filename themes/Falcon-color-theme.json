@@ -75,8 +75,7 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#B4B4B9",
-				"fontStyle": "italic",
+				"foreground": "#B4B4B9"
 			}
 		},
 		{
