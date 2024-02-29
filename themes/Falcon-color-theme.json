@@ -1,0 +1,153 @@
+{
+	"name": "Falcon",
+	"colors": {
+		"editor.background": "#020221",
+		"editorCursor.foreground": "#DDCFBF",
+		"editor.foreground": "#B4B4B9",
+		"editorWhitespace.foreground": "#635196",
+		"editor.lineHighlightBackground": "#2F2F3A",
+		"editor.selectionBackground": "#2D1078",
+		"editorLineNumber.foreground": "#57575E",
+		"editorLineNumber.activeForeground": "#B4B4B9",
+		"editorIndentGuide.background1": "#36363A",
+		"editorIndentGuide.activeBackground1": "#36363A",
+
+		"sideBar.background": "#151521",
+
+		"activityBar.background": "#0A0A29",
+		"activityBarBadge.background": "#FF761A",
+
+		"tree.indentGuidesStroke": "#36363A",
+
+		"list.inactiveSelectionBackground": "#2F2F3A",
+		"list.hoverBackground": "#2F2F3A",
+		"list.activeSelectionBackground": "#2D1078",
+
+		"button.background": "#2D1078",
+
+		"focusBorder": "#2D1078",
+
+		"titleBar.activeBackground": "#212127",
+		"titleBar.inactiveBackground": "#28282D",
+
+		"editorGroupHeader.tabsBackground": "#212127",
+		"tab.inactiveBackground": "#36363A",
+		"tab.activeBackground": "#787882",
+
+		"statusBar.background": "#212127",
+		"statusBar.noFolderBackground": "#212127",
+		"statusBar.debuggingBackground": "#2D1078",
+		"statusBarItem.remoteBackground": "#FF761A",
+
+		"menu.background": "#151521",
+		"quickInput.background": "#151521",
+		"editorSuggestWidget.background": "#151521",
+		"notifications.background": "#151521",
+
+		"input.background": "#212127",
+		"dropdown.background": "#212127",
+		"editorWidget.background": "#212127",
+
+		"terminal.foreground": "#B4B4B9",
+		"terminal.background": "#020221",
+		"terminal.ansiBlack": "#000004",
+		"terminal.ansiRed": "#FF3600",
+		"terminal.ansiGreen": "#718E3F",
+		"terminal.ansiYellow": "#FFC552",
+		"terminal.ansiBlue": "#635196",
+		"terminal.ansiMagenta": "#FF761A",
+		"terminal.ansiCyan": "#34BFA4",
+		"terminal.ansiWhite": "#B4B4B9",
+
+		"terminal.ansiBrightBlack": "#020221",
+		"terminal.ansiBrightRed": "#FF8E78",
+		"terminal.ansiBrightGreen": "#B1BF75",
+		"terminal.ansiBrightYellow": "#FFD392",
+		"terminal.ansiBrightBlue": "#99A4BC",
+		"terminal.ansiBrightMagenta": "#FFB07B",
+		"terminal.ansiBrightCyan": "#8BCCBF",
+		"terminal.ansiBrightWhite": "#F8F8FF",
+	},
+	"tokenColors": [
+		{
+			"scope": [
+				"constant",
+				"keyword.other.unit"
+			],
+			"settings": {
+				"foreground": "#B4B4B9",
+				"fontStyle": "italic",
+			}
+		},
+		{
+			"scope": [
+				"variable"
+			],
+			"settings": {
+				"foreground": "#99A4BC"
+			}
+		},
+		{
+			"scope": [
+				"storage.type",
+				"storage.modifier",
+				"entity.name.type",
+			],
+			"settings": {
+				"foreground": "#DFDFE5"
+			}
+		},
+		{
+			"scope": [
+				"keyword",
+			],
+			"settings": {
+				"foreground": "#FFC552"
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator",
+				"constant.character.escape",
+			],
+			"settings": {
+				"foreground": "#FF761A"
+			}
+		},
+		{
+			"scope": [
+				"punctuation",
+			],
+			"settings": {
+				"foreground": "#DFDFE5"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.string",
+				"string",
+			],
+			"settings": {
+				"foreground": "#C8D0E3"
+			}
+		},
+		{
+			"scope": [
+				"keyword.control.directive",
+				"punctuation.definition.directive",
+			],
+			"settings": {
+				"foreground": "#CFC1B2"
+			}
+		},
+		{
+			"scope": [
+				"comment"
+			],
+			"settings": {
+				"foreground": "#787882",
+				"fontStyle": "italic",
+			}
+		}
+	]
+}
